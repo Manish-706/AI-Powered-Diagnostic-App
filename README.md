@@ -1,4 +1,3 @@
-# Tubercluosis and Malaria Diagnosis App
 
 # AI-Based Diagnostic Tool for Remote Healthcare
 
